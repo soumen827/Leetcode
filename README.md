@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/soumen827/Leetcode/tree/master/0001-two-sum) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/soumen827/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/soumen827/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/soumen827/Leetcode/tree/master/0022-generate-parentheses) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/soumen827/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
