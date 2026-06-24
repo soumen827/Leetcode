@@ -12,7 +12,7 @@ class Solution {
         }else{
             temp.next = t2;
             t2 = t2.next;
-
+            
         }
          temp= temp.next;
     }
