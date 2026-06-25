@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/soumen827/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/soumen827/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/soumen827/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
