@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soumen827/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/soumen827/Leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +95,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
