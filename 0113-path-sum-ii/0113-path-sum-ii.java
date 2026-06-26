@@ -17,7 +17,7 @@ class Solution {
         }
             arr.add(root.val);
             List<Integer> arr1 = copy(arr);
-             List<Integer> arr2 = copy(arr);
+            List<Integer> arr2 = copy(arr);
             helper(root.left,target-root.val,arr1,ans);
             helper(root.right,target-root.val,arr2,ans);
 
