@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumen827/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/soumen827/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/soumen827/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/soumen827/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumen827/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/soumen827/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/soumen827/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/soumen827/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/soumen827/Leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/soumen827/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/soumen827/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/soumen827/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## String
 |  |
 | ------- |
