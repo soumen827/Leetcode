@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/soumen827/Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/soumen827/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/soumen827/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/soumen827/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/soumen827/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/soumen827/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/soumen827/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
