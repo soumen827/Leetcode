@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/soumen827/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumen827/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/soumen827/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/soumen827/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/soumen827/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/soumen827/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/soumen827/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/soumen827/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/soumen827/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/soumen827/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/soumen827/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
