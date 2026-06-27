@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/soumen827/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumen827/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/soumen827/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/soumen827/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/soumen827/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/soumen827/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/soumen827/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
