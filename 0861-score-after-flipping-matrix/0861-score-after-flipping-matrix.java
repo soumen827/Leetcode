@@ -29,7 +29,7 @@ class Solution{
             for(int i=0;i<m ;i++){
                 score += (arr[i][j]*x);
             }
-            x *=2;
+            x*=2;
         }
         return score;
     }
