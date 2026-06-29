@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/soumen827/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumen827/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/soumen827/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/soumen827/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/soumen827/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Matrix
 |  |
