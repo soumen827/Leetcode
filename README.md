@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumen827/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/soumen827/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/soumen827/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/soumen827/Leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/soumen827/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/soumen827/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/soumen827/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/soumen827/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/soumen827/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 ## Quickselect
 |  |
 | ------- |
