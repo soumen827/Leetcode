@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soumen827/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumen827/Leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/soumen827/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soumen827/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/soumen827/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/soumen827/Leetcode/tree/master/0437-path-sum-iii) |
+| [0938-range-sum-of-bst](https://github.com/soumen827/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soumen827/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/soumen827/Leetcode/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/soumen827/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/soumen827/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/soumen827/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
