@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumen827/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/soumen827/Leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/soumen827/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumen827/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/soumen827/Leetcode/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/soumen827/Leetcode/tree/master/0493-reverse-pairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumen827/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumen827/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Hash Table
 |  |
 | ------- |
