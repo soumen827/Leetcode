@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/soumen827/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2560-house-robber-iv](https://github.com/soumen827/Leetcode/tree/master/2560-house-robber-iv) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2094-finding-3-digit-even-numbers](https://github.com/soumen827/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/soumen827/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumen827/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/soumen827/Leetcode/tree/master/0867-transpose-matrix) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
 | ------- |
