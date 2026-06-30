@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/soumen827/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/soumen827/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumen827/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/soumen827/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumen827/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumen827/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/soumen827/Leetcode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/soumen827/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/soumen827/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/soumen827/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/soumen827/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
