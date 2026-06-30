@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2560-house-robber-iv](https://github.com/soumen827/Leetcode/tree/master/2560-house-robber-iv) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/soumen827/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/soumen827/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3875-construct-uniform-parity-array-i](https://github.com/soumen827/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
