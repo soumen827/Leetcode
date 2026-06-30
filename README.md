@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/soumen827/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/soumen827/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/soumen827/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/soumen827/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/soumen827/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/soumen827/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/soumen827/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/soumen827/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0861-score-after-flipping-matrix](https://github.com/soumen827/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/soumen827/Leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sliding Window
 |  |
 | ------- |
