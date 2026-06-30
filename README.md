@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/soumen827/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/soumen827/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/soumen827/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/soumen827/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/soumen827/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/soumen827/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/soumen827/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/soumen827/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/soumen827/Leetcode/tree/master/0645-set-mismatch) |
 | [0973-k-closest-points-to-origin](https://github.com/soumen827/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/soumen827/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
