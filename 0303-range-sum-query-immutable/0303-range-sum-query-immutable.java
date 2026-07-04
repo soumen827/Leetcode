@@ -2,7 +2,8 @@ class NumArray {
     int[]arr;
     public NumArray(int[] nums) {
         int n = nums.length;
-        arr= Arrays.copyOf(nums,n);
+       // arr= Arrays.copyOf(nums,n); // deep copy
+       arr = nums; // shallo copy
          
         for(int i=1;i<n;i++){
             arr[i]+=arr[i-1];
