@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/soumen827/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2560-house-robber-iv](https://github.com/soumen827/Leetcode/tree/master/2560-house-robber-iv) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/soumen827/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soumen827/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/soumen827/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/soumen827/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/soumen827/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Matrix
 |  |
 | ------- |
