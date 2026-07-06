@@ -1,7 +1,6 @@
 class Solution {
     public int pivotIndex(int[] nums) {
         int n = nums.length;
-        int ans =0;
         for(int i=1;i<n;i++){ // make prifix sum 
             nums[i]+=nums[i-1];
         }
