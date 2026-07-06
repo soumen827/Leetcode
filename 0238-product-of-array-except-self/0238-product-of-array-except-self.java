@@ -3,7 +3,7 @@ class Solution {
         int n = arr.length;
         int[] pre = new int [n];
         int[] suf = new int [n];
-         int[] ans = new int [n];
+       // int[] ans = new int [n];
         pre[0] =1;
         for(int i=1;i<n;i++){
             pre[i]= pre[i-1]*arr[i-1];
@@ -13,9 +13,9 @@ class Solution {
             suf[i] =suf[i+1]*arr[i+1];
         }
          for(int i=0;i<n;i++){
-             ans[i] = pre[i]*suf[i]; 
+            pre[i] = pre[i]*suf[i]; 
          }
-         return ans;
+         return pre;
 
     }
 }
