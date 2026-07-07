@@ -1,13 +1,26 @@
 class Solution {
     public int[] corpFlightBookings(int[][] arr, int n) {
-        int [] ans = new int[n];
-        for(int i=0;i<arr.length;i++){
-            int first = arr[i][0];
-            int last = arr[i][1];
-            int seat = arr[i][2];
-            for(int j=first-1;j<last;j++){
-                ans[j]+= seat;
-            }
+        // int [] ans = new int[n];  
+        // for(int i=0;i<arr.length;i++){
+        //     int first = arr[i][0];
+        //     int last = arr[i][1];
+        //     int seat = arr[i][2];
+        //     for(int j=first-1;j<last;j++){
+        //         ans[j]+= seat;
+        //     }
+        // }
+        // return ans;
+        int [] ans = new int[n];  
+         for(int i=0;i<arr.length;i++){
+             int first = arr[i][0];
+             int last = arr[i][1];
+             int seat = arr[i][2];
+            ans[first-1] += seat;
+            if(last<n) ans[last] -= seat; 
+
+        }
+        for(int i=1;i<n;i++){
+            ans[i]+=ans[i-1];
         }
         return ans;
     }
