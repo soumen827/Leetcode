@@ -1,19 +1,18 @@
 class Solution {
-    public int numSubarrayProductLessThanK(int[] nums, int k) {
-        // If k is 0 or 1, no positive product can be less than k
+    public int numSubarrayProductLessThanK(int[] arr, int k) {
         if (k <= 1) return 0;
-        int n = nums.length;
+        int n = arr.length;
         int i = 0;
         int product = 1;
         int count = 0;
 
         for (int j = 0; j < n; j++) {
             // Expand the window
-            product *= nums[j];
+            product *= arr[j];
 
             // Shrink the window until product becomes < k
             while (product >= k) {
-                product /= nums[i];
+                product /= arr[i];
                 i++;
             }
             count += (j - i + 1);
