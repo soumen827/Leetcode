@@ -13,7 +13,7 @@ class Solution {
         j=i;
         while(j<n){
             if(arr[j]==1) j++;
-            else{
+            else{  // arr[j]==0 
                 if(zeros ==0 ){
                     j++;
                     zeros++;
@@ -27,7 +27,7 @@ class Solution {
                 }
             }
         }
-        if(zeros==0) return j-i;
+        if(zeros==0) return j-i; // 0 1 1 is diff from 11
         int len = j-i-1;
         maxLen = Math.max(maxLen,len);
         return maxLen;
