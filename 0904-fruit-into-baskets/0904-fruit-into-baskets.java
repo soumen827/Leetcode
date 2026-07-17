@@ -4,7 +4,7 @@ class Solution {
         int i=0, j=0, MaxLen =0;
         HashMap<Integer,Integer> map = new HashMap<>();
         while(j<n){
-            // fiest step map me first ele dalo
+            // first step map me ele put karo
             if(map.containsKey(arr[j])){
                 int freq = map.get(arr[j]);
                 map.put(arr[j],freq+1);
