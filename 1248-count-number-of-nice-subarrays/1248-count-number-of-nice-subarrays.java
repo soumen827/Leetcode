@@ -7,8 +7,8 @@ class Solution {
             if(arr[j]%2!=0) k2++;
             j++;
         }
-        if(k2<k) return 0;// jodi Kta odd ele na thake 
         j--;  // Kth odd+1 me chala gaya that resion ak piche  
+        if(k2<k) return 0;// jodi Kta odd ele na thake 
         b = j+1;
         while(b<n&& arr[b]%2==0) b++; // B ko rakho J ke next odd se ak age 
         b--;  // for ak age 
