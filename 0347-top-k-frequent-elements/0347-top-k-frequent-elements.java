@@ -8,6 +8,7 @@ class Solution {
     }
     public int compareTo(Pair s){
           return this.freq - s.freq;
+          
     }
 }
     public int[] topKFrequent(int[] arr, int k) {
