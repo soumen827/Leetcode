@@ -1,5 +1,5 @@
 class Solution {
-    // method 2 not use ds and isValid
+     // method 2 not use ds and isValid .
     public void helper(int[] nums,int idx,List<List<Integer>> ans){
         int n = nums.length;
         if(idx==n-1){
