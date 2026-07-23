@@ -1,11 +1,4 @@
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> ds = new ArrayList<>();
-        boolean[] isValid = new boolean[nums.length];
-        helper(nums,ds,isValid,ans);
-        return ans;
-    }
     public void helper(int[] nums,List<Integer> ds,boolean[] isValid,List<List<Integer>> ans){
         int n = nums.length;
         if(ds.size()==n){
@@ -26,5 +19,12 @@ class Solution {
 
             }
         }
+    }
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>(); // 0(n) mandatary
+        List<Integer> ds = new ArrayList<>();  // 0(n)
+        boolean[] isValid = new boolean[nums.length];
+        helper(nums,ds,isValid,ans);
+        return ans;
     }
 }
