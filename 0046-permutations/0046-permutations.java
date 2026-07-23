@@ -1,9 +1,8 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        int n = nums.length;
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> ds = new ArrayList<>();
-        boolean[] isValid = new boolean[n];
+        boolean[] isValid = new boolean[nums.length];
         helper(nums,ds,isValid,ans);
         return ans;
     }
@@ -21,7 +20,7 @@ class Solution {
             if(isValid[i]==false){ // call lagega
                 ds.add(nums[i]);
                 isValid[i]= true;
-                 helper(nums,ds,isValid,ans);
+                helper(nums,ds,isValid,ans);
                 isValid[i]= false;
                 ds.remove(ds.size()-1);
 
