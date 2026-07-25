@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/soumen827/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2560-house-robber-iv](https://github.com/soumen827/Leetcode/tree/master/2560-house-robber-iv) |
+| [2596-check-knight-tour-configuration](https://github.com/soumen827/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/soumen827/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soumen827/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -306,11 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/soumen827/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/soumen827/Leetcode/tree/master/0867-transpose-matrix) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/soumen827/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/soumen827/Leetcode/tree/master/0867-transpose-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/soumen827/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/soumen827/Leetcode/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Sorting
 |  |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/soumen827/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/soumen827/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/soumen827/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/soumen827/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/soumen827/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/soumen827/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Design
 |  |
 | ------- |
