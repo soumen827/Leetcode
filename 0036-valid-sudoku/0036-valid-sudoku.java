@@ -3,7 +3,7 @@ class Solution {
         int n = board.length;
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
-                if(board[i][j] == '.') continue;
+                if(board[i][j] == '.') continue; // ager pehele sehi . ho to continue
                 char num  = board[i][j];
                 board[i][j] = '.';
                 if(isValid(board,i,j,num)==false) return false;
