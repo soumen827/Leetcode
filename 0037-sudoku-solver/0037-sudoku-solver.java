@@ -1,21 +1,20 @@
 class Solution {
-    public void solve(char[][]board,int row,int col,char[][] grid){
+    static int check =0;
+    public void solve(char[][]board,int row,int col){
         if(row==9){
-            for(int i=0;i<9;i++){ // copy pasting from board to grid
-                for(int j=0;j<9;j++){
-                    grid[i][j] = board[i][j];
-                }
-            }
+            check=1;
         }
         else if(board[row][col]!='.'){ //faka nehi hay
-            if(col!=8) solve(board,row,col+1,grid); // last col na ho to
-            else solve(board,row+1,0,grid); // next row 1st col
+            if(col!=8) solve(board,row,col+1); // last col na ho to
+            else solve(board,row+1,0); // next row 1st col
         }else{ // ager . hay to
             for(char ch='1';ch<='9';ch++){
                 if(isValid(board,row,col,ch)){
                     board[row][col] = ch;
-                    if(col!=8) solve(board,row,col+1,grid);
-                    else solve(board,row+1,0,grid);
+                    if(col!=8) solve(board,row,col+1);
+                    else solve(board,row+1,0);
+
+                    if(check==1) return; // row pura var gaya(9 tak a gaya) to return ans a gaya
                     board[row][col] = '.'; // back tracking
             
                 }
@@ -44,12 +43,7 @@ class Solution {
         return true;
     }
     public void solveSudoku(char[][] board) {
-        char[][] grid = new char[9][9];
-        solve(board,0,0,grid);
-        for(int i=0;i<9;i++){ // copy pasting from board to grid
-            for(int j=0;j<9;j++){
-                board[i][j]= grid[i][j];
-            }
-        }
+        solve(board,0,0);
+        check =0;
     }
 }
