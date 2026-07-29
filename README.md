@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/soumen827/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/soumen827/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/soumen827/Leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/soumen827/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/soumen827/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/soumen827/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/soumen827/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/soumen827/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/soumen827/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/soumen827/Leetcode/tree/master/0861-score-after-flipping-matrix) |
