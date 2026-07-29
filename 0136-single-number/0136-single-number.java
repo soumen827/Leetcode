@@ -1,18 +1,12 @@
 class Solution {
-    //Broute Force
     public int singleNumber(int[] nums) {
+        Arrays.sort(nums);
         int n = nums.length;
-        for(int i=0;i<n;i++){
-            boolean flag = false;
-            for(int j=0;j<n;j++){
-                if(i==j) continue;
-                if(nums[i]==nums[j]){
-                     flag = true;
-                     break;
-                } 
-            }
-            if(flag==false) return nums[i];
+        int i=0;
+        while(i<n-1){
+            if(nums[i]!=nums[i+1]) return nums[i];// same heni hay to ohi ans
+            else i+=2; // nehi to 2 jamp karo and age baro
         }
-         return -1;
+        return nums[n-1]; // last se vi 2 jamp ho ho raha so return last
     }
 }
