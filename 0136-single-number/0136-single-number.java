@@ -1,14 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Map<Integer,Integer> map = new HashMap<>();
+        int ans=0; // me janta hu sab 2 bar karke hay to ^ karunga to 0 hoga 
         for(int ele:nums){
-            if(map.containsKey(ele)) map.put(ele,2);
-            else map.put(ele,1);
+            ans = ans ^ ele; // only one single bachega
         }
-        for(int key:map.keySet()){
-            int freq = map.get(key);
-            if(freq==1) return key;
-        }
-        return -1;
+        return ans;
     }
 }
