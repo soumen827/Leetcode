@@ -1,12 +1,14 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
-        int i=0;
-        while(i<n-1){
-            if(nums[i]!=nums[i+1]) return nums[i];// same heni hay to ohi ans
-            else i+=2; // nehi to 2 jamp karo and age baro
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int ele:nums){
+            if(map.containsKey(ele)) map.put(ele,2);
+            else map.put(ele,1);
         }
-        return nums[n-1]; // last se vi 2 jamp ho ho raha so return last
+        for(int key:map.keySet()){
+            int freq = map.get(key);
+            if(freq==1) return key;
+        }
+        return -1;
     }
 }
