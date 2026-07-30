@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/soumen827/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/soumen827/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soumen827/Leetcode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/soumen827/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumen827/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/soumen827/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/soumen827/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/soumen827/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/soumen827/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/soumen827/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/soumen827/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/soumen827/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/soumen827/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/soumen827/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/soumen827/Leetcode/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/soumen827/Leetcode/tree/master/0861-score-after-flipping-matrix) |
