@@ -7,10 +7,10 @@ class Solution {
         
         // M-2
         if(n<=0) return false;
-        return ((n&(n-1))==0) && isPerfectSq(n);
-        
+        // return ((n&(n-1))==0) && isPerfectSqare(n);
+        return ((n&(n-1))==0) && (n%3==1);
     }
-    public boolean isPerfectSq(int n){
+    public boolean isPerfectSqare(int n){
         int root = (int)Math.sqrt(n);
         return (root*root==n);
     }
