@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/soumen827/Leetcode/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/soumen827/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/soumen827/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1486-xor-operation-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/soumen827/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3875-construct-uniform-parity-array-i](https://github.com/soumen827/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/soumen827/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix](https://github.com/soumen827/Leetcode/tree/master/1284-minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix) |
 | [1310-xor-queries-of-a-subarray](https://github.com/soumen827/Leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1486-xor-operation-in-an-array](https://github.com/soumen827/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/soumen827/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/soumen827/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
