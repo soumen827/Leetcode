@@ -2,7 +2,7 @@ class Solution {
     public int[] xorQueries(int[] arr, int[][] queries) {
         int n = arr.length, m = queries.length;
         for(int i=1;i<n;i++){
-            arr[i] ^= arr[i-1]; // arr is now prefix
+            arr[i] ^= arr[i-1]; // arr is now prefix xor
         }
         int[] ans = new int[m];
         for(int i=0;i<m;i++){
