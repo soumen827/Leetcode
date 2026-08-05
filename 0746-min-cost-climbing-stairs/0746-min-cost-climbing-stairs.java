@@ -1,4 +1,5 @@
 class Solution {
+    // using DP
      public int minCost(int[] cost,int idx,int [] dp) {
 
        if(idx==0 || idx==1) return cost[idx];
