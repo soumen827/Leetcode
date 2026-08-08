@@ -1,0 +1,23 @@
+class Solution {
+     int m,n;
+     // Using 2 Variable
+    public int uniquePaths(int m, int n) {
+        this.m =m;
+        this.n =n;
+        int[][] dp = new int[m][n];
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                dp[i][j] = -1;
+            }
+        }
+        return helper(0,0,dp);
+    }
+    public int helper(int row,int col,int[][]dp) {
+        if(row>=m || col>=n) return 0;
+        if(row==m-1 || col==n-1) return 1;
+        if(dp[row][col]!=-1) return dp[row][col];
+        int rightway = helper(row,col+1,dp);
+        int downway = helper(row+1,col,dp);
+        return dp[row][col]= rightway + downway;
+    }
+}
