@@ -1,5 +1,6 @@
 class Solution {
      int m,n;
+     // Using 2 Variable
     public int uniquePaths(int m, int n) {
         this.m =m;
         this.n =n;
