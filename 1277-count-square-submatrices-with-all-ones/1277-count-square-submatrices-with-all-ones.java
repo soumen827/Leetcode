@@ -7,7 +7,7 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(arr[i][j]==0) continue;
                 if(i>0 && j>0){
-                    arr[i][j] += Math.min(arr[i-1][j],Math.min(arr[i][j-1],arr[i-1][j-1]));
+                    arr[i][j] += Math.min(arr[i-1][j],Math.min(arr[i][j-1],arr[i-1][j-1]));// 3no ka min
                 }
                 count +=arr [i][j];
             }
