@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/soumen827/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/soumen827/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/soumen827/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/soumen827/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/soumen827/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/soumen827/Leetcode/tree/master/0189-rotate-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/soumen827/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/soumen827/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/soumen827/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/soumen827/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/soumen827/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/soumen827/Leetcode/tree/master/0198-house-robber) |
@@ -584,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/soumen827/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/soumen827/Leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/soumen827/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/soumen827/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
