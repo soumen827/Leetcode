@@ -1,24 +1,12 @@
 class Solution {
-     int m,n;
-     // Using 2 Variable
     public int uniquePaths(int m, int n) {
-        this.m =m;
-        this.n =n;
         int[][] dp = new int[m][n];
-        //Arrays.fill(dp,-1);
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
-                dp[i][j] = -1;
+                if(i==0 || j==0) dp[i][j] =1;
+                else dp[i][j] = dp[i][j-1] + dp[i-1][j];
             }
         }
-        return helper(0,0,dp);
-    }
-    public int helper(int row,int col,int[][]dp) {
-        if(row>=m || col>=n) return 0;
-        if(row==m-1 || col==n-1) return 1;
-        if(dp[row][col]!=-1) return dp[row][col];
-        int rightway = helper(row,col+1,dp);
-        int downway = helper(row+1,col,dp);
-        return dp[row][col]= rightway + downway;
+        return dp[m-1][n-1];
     }
 }
