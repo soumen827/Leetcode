@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/soumen827/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/soumen827/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/soumen827/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/soumen827/Leetcode/tree/master/0078-subsets) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/soumen827/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/soumen827/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/soumen827/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/soumen827/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/soumen827/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/soumen827/Leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/soumen827/Leetcode/tree/master/0198-house-robber) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/soumen827/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/soumen827/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/soumen827/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/soumen827/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/soumen827/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/soumen827/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/soumen827/Leetcode/tree/master/0861-score-after-flipping-matrix) |
